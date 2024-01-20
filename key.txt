@@ -19,7 +19,6 @@ jake = paused 11 days
 pause zain / 12 days
 
 20 days:
-DR4X-xD4RK-AA5934DC5A-M4786== / jan 20
 1month
 DR4X-xD4RK-ED4DF79F13-M4786== / feb 15
 DR4X-xD4RK-AEAD1EF0DC-M4786== / feb 21
