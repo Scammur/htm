@@ -17,8 +17,6 @@ DR4X-xD4RK-C0625DB6FF-M4786== / jan 30
 DR4X-xD4RK-621C3E2277-M4786== / jan 30
 DR4X-xD4RK-616D7ABE8A-M4786== / jan 30
 lenard pause = 6 days
-DR4X-xD4RK-5DFE81A58A-M4786== / jan 23
-DR4X-xD4RK-D93CC3C66B-M4786== / jan 23
 DR4X-xD4RK-61F62FF532-M4786== / jan 29
 jake = paused 11 days
 pause zain / 12 days
@@ -27,5 +25,4 @@ pause zain / 12 days
 1month
 DR4X-xD4RK-ED4DF79F13-M4786== / feb 15
 DR4X-xD4RK-AEAD1EF0DC-M4786== / feb 21
-DR4X-xD4RK-E999D45C66-M4786== / jan 22
 zahira 21 days
